@@ -1,8 +1,9 @@
 # MovimentaColetivaFlocking
-Versão: 1.0
-Status do Projeto: ✔️ Concluído
-Tópicos
-🔹 Descrição do projeto
+## Versão: 1.0
+## Status do Projeto: ✔️ Concluído
+
+## Tópicos
+🔹 Descrição do projeto 
 
 🔹 Funcionalidades
 
@@ -22,40 +23,51 @@ Tópicos
 
 🔹 Resolvendo problemas
 
-🔹 Recursos inseridos
+🔹 Recursos inseridos 
 
 🔹 Desenvolvedores/Contribuintes
 
 🔹 Informações Extras
 
+
 ...
 
-Descrição do projeto
+## Descrição do projeto
 Um sisitema em que objetos giram em torno de um ponto.
 
-Funcionalidades ⚙️
-✔️ Peixei nadam ao redor de um pilar.
+## Funcionalidades ⚙️
+✔✔️ Peixes nadam ao redor de um pilar.
 
-Distribuição
+## Distribuição
 https://github.com/MAUAK/MovimentaColetivaFlocking
 
-Pré-requisitos ⚠️
-Windows;
+## Pré-requisitos ⚠️    
+Windows; 
 
-Unity;
+Unity; 
 
-Como rodar a aplicação
+## Como rodar a aplicação 
 O usúario deverá abrir a unity e declarar o valor de cada variável para os objetos andarem ao redor de um ponto.
 
-Testes realizados
-Banco de Dados 🗂️
-Linguagens, dependencias e libs utilizadas 📚
+## Testes realizados
+
+
+## Banco de Dados 🗂️
+
+
+## Linguagens, dependencias e libs utilizadas 📚
 C#
 
-Resolvendo Problemas
-Recursos de inseridos 🧰
-Desenvolvedores/Contribuintes:
+## Resolvendo Problemas 
+
+
+## Recursos de inseridos 🧰
+
+
+
+## Desenvolvedores/Contribuintes:
 Kauam Silva Batista
 
-Licença
-Copyright ©️ 2023 - Tanque_No_Deserto
+## Licença
+
+## Copyright ©️ 2023 - MovimentaColetivaFlocking
