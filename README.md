@@ -36,7 +36,7 @@
 Um sisitema em que objetos giram em torno de um ponto.
 
 ## Funcionalidades ⚙️
-✔✔️ Peixes nadam ao redor de um pilar.
+✔️ Peixes nadam ao redor de um pilar.
 
 ## Distribuição
 https://github.com/MAUAK/MovimentaColetivaFlocking
